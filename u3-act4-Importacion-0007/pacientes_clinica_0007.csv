@@ -1,7 +1,0 @@
-﻿id_paciente,nombre,edad,tipo_sangre,peso_kg,altura_cm,diagnostico,dias_hospitalizacion,medicamento,proximo_control
-1001,Laura,34,O+,65.5,165,Gripe,0,Paracetamol,2024-02-01
-1002,Pedro,45,A-,78.2,175,Hipertension,3,Enalapril,2024-01-15
-1003,Sofia,28,B+,58.0,160,Migraña,0,Ibuprofeno,2024-03-10
-1004,Miguel,62,AB+,85.1,180,Diabetes,5,Metformina,2024-01-20
-1005,Elena,19,O-,52.3,155,Alergia,1,Loratadina,2024-04-05
-1006,Jorge,51,A+,74.0,172,Gastritis,2,Omeprazol,2024-02-28
